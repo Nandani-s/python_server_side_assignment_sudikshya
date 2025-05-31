@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Laptop",
+		"price": 999.99,
+		"quantity": 50
+	},
+	{
+		"name": "pen",
+		"price": 90,
+		"quantity": 50
+	}
+]
